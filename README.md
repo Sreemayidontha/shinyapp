@@ -1,7 +1,7 @@
 # shinyapp
 Taste of India
 
-The app can be accessed through the link below
+The app can be accessed through the link 
 [AppLink](https://sreemayidontha.shinyapps.io/5250App/)
 ## Introduction
 
