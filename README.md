@@ -29,7 +29,7 @@ Designed with user experience in mind, the 'Taste of India' application boasts a
 
 The application is structured into three distinct tabs, each offering unique functionality and features to enhance the user experience.
 
-In the first tab, labeled "Recipe Search," users are presented with five input fields designed to facilitate precise recipe discovery. These inputs include:
+In the **first tab**, labeled "Recipe Search," users are presented with five input fields designed to facilitate precise recipe discovery. These inputs include:
 
 Search by Dish: Users can directly input the name of the dish they are searching for.
 
@@ -55,11 +55,11 @@ Additionally, users can utilize the search bar located at the top-right corner o
 
 The search results are dynamically visualized in a data table format, featuring eleven columns including state, dish name, region, cook time, prep time, ingredients, flavor profile, course, latitude, and longitude. As users input their preferences, the table automatically filters the data to provide relevant recipe information.
 
-The second tab, labeled "Regional Cuisine Explorer," offers users a data visualization experience through an interactive map interface.
+The **second tab**, labeled "Regional Cuisine Explorer," offers users a data visualization experience through an interactive map interface.
 
 Users can utilize the zoom-in and zoom-out functionalities to navigate the map and explore different regions. Initially, the dishes from various regions are displayed as clusters on the map. As users zoom in, the clusters further divide, eventually revealing red data points representing specific dishes within each region and state. Hovering over these data points enables users to view the dish names associated with each location, facilitating a deeper understanding of regional cuisines.
 
-In the third tab, aptly named "Ingredients Search," users are presented with a unique opportunity to explore recipes based on their preferred ingredients. This tab is designed to cater to users who may have specific ingredients on hand and are seeking inspiration for dishes to prepare.
+In the **third tab**, aptly named "Ingredients Search," users are presented with a unique opportunity to explore recipes based on their preferred ingredients. This tab is designed to cater to users who may have specific ingredients on hand and are seeking inspiration for dishes to prepare.
 
 Users are provided with five input fields where they can input their chosen ingredients. Once the user has inputted their desired ingredients, they can initiate the search by clicking on the designated button.
 
@@ -67,7 +67,7 @@ The search results are dynamically visualized in a data table format, showcasing
 
 Through the utilisation of this function, users may uncover novel and captivating dishes customised to their preferences, thus augmenting their culinary exploration and diversifying their recipe collection. The items Search page offers a handy and user-friendly platform for recipe research, perfect for those who want to try new flavours or are just searching for inventive ways to use items they already have.
 
-Instructions to use the application
+## Instructions to use the application
 
 To navigate and utilize the "Taste of India" application effectively, follow the comprehensive instructions provided below.
 
@@ -80,25 +80,24 @@ Open the application using your preferred web browser.
 
 **Tab 1: Recipe Search:**
 
-Click on the "Recipe Search" tab to begin exploring recipes.
+- Click on the "Recipe Search" tab to begin exploring recipes.
 
-Input Search Criteria:
+- Input Search Criteria:
 
-Type the name of the dish you want to search for in the "Search by Dish" text box.
+- Type the name of the dish you want to search for in the "Search by Dish" text box.
 
-Select the diet type (vegetarian or non-vegetarian) from the dropdown menu.
+- Select the diet type (vegetarian or non-vegetarian) from the dropdown menu.
 
-Choose the flavor profile (spicy, sour, sweet, or bitter) from the dropdown menu.
+- Choose the flavor profile (spicy, sour, sweet, or bitter) from the dropdown menu.
 
-Specify the course (dessert, main course, snack, or starter) from the dropdown menu.
+- Specify the course (dessert, main course, snack, or starter) from the dropdown menu.
 
-Select the region (south, east, west, north, northeast, or central) from the dropdown menu.
+- Select the region (south, east, west, north, northeast, or central) from the dropdown menu.
 
 
+* Alternatively, use the search bar at the top-right corner for quick access.
 
-Alternatively, use the search bar at the top-right corner for quick access.
-
-Explore Filtered Results:
+**Explore Filtered Results:**
 
 View the filtered results displayed in the data table below the search inputs.
 
@@ -110,7 +109,7 @@ The table includes information such as state, dish name, region, cook time, prep
 
 Navigate to the "Regional Cuisine Explorer" tab.
 
-Interact with the Map:
+* Interact with the Map:
 
 Explore the map visualization by zooming in and out using the zoom controls.
 
